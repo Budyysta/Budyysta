@@ -2,7 +2,7 @@
 
 Welcome to my Github Profile, i Hope You Like it.
 
-This is my Study Portifolio, i try some random things in C, C#, Py and JS. 
+This is the basis for tests, studies and other things that I will do, i try some random things in C, C#, Py and JS. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=budyysta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 
