@@ -1,6 +1,6 @@
 # Salve !
 
-Welcome to my Github Profile, i Hope You Like it.
+Welcome to my Github Profile, I   hope You like it.
 
 This is the basis for tests, studies and other things that I will do, i try some random things in C, C#, Py and JS. 
 
